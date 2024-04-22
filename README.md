@@ -1,3 +1,4 @@
+# Japan India Hack-a-thon (Hack The Future'24)
 This repository contains all the required files as well as the presentation that was submitted by Team Eta in the Japan India Hack-a-thon (Hack the Future - 2024).
 Problem Statement: REDUCTION OF TRAFFIC CONGESTION IN AHMEDABAD CITY
 Solution proposed: Using a Smart and Adaptive Traffic Signal
